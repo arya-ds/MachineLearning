@@ -1,4 +1,4 @@
-# Classification Model 
+# Bank loans -  Classification Model 
 Domain : Banking Industry  , Data : Bank Loans 
 
 In this project i have analysed the dataset and peformed EDA analysis and data visualization
